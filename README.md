@@ -1,3 +1,32 @@
+# JATE: Just Another Text Editor
+
+## Description
+
+  A fast text editor that will allow you to write a note that will persist when leaving the page or going offline. The Application can be downloaded to the user's desktop if desired.
+
+  GitHub: https://github.com/MichaelMLetanosky/text-editor
+
+## Table of Contents
+---
+1. [Install](#install)
+1. [Instructions](#instructions)
+1. [Credits](#credits)
+---
+
+## Install
+
+  Once the server is running by using "npm run start", the User simply has to navigate to the webpage to see and use the application.
+
+## Instructions
+
+  Once on the webpage the user can erase, edit, and write any text they want. It is automatically saved to indexDB when the screen is no longer the focus. When the user navigates back to the page the previous text is automatically generated. The user may press the install button at the top to create a shortcut to the webpage on their desktop.
+
+## Credits
+
+  Project contributors are UCF Coding BootCamp provided starter code, completed by Michael Letanosky
+
+---
+
 # 19 Progressive Web Applications (PWA): Text Editor
 
 ## Your Task
